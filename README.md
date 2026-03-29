@@ -1,6 +1,6 @@
 # python-assignment-part2
 
-# 🍽️ Restaurant Menu & Order Management System (Jupyter Notebook)
+# 🍽️ Restaurant Menu & Order Management System 
 
 ## 📌 Overview
 
